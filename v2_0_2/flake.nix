@@ -9,7 +9,7 @@
   
   inputs.src-lockfreequeues-v2_0_2.flake = false;
   inputs.src-lockfreequeues-v2_0_2.owner = "elijahr";
-  inputs.src-lockfreequeues-v2_0_2.ref   = "refs/tags/v2.0.2";
+  inputs.src-lockfreequeues-v2_0_2.ref   = "v2_0_2";
   inputs.src-lockfreequeues-v2_0_2.repo  = "lockfreequeues";
   inputs.src-lockfreequeues-v2_0_2.type  = "github";
   
