@@ -11,6 +11,7 @@
   inputs.src-lockfreequeues-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-lockfreequeues-v0_1_0.owner = "elijahr";
   inputs.src-lockfreequeues-v0_1_0.repo  = "lockfreequeues";
+  inputs.src-lockfreequeues-v0_1_0.dir   = "";
   inputs.src-lockfreequeues-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
