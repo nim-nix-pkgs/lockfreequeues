@@ -1,0 +1,14 @@
+.vscode/tags
+.DS_Store
+
+nimcache/
+nimblecache/
+
+/src/*
+/tests/*
+/examples/*
+/htmldocs/*
+
+!**/*.nims
+!**/*.nim
+!**/*.cfg
